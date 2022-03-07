@@ -20,6 +20,6 @@ Create free Cluster and create database password and username then copy the url 
 
 
 ### Using postman to GET and POST at the MongoDB database
-![GET](assest/get.png "Get all posts from database")
-![POST](assest/post.png "Create new post to database")
-![POST error](assest/error.png "Error massage while posting")
+![GET](assist/get.png "Get all posts from database")
+![POST](assist/post.png "Create new post to database")
+![POST error](assist/error.png "Error massage while posting")
